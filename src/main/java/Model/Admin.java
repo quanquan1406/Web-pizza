@@ -27,4 +27,5 @@ public class Admin {
 		return Mat_Khau;
 	}
 	
+	
 }
